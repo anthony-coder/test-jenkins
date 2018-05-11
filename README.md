@@ -1,2 +1,2 @@
-# test-jenkins
-This is a repo to test jenkins pipeline as code
+# hello-world-example
+maven hello world! example to test jenkins 2.0 features
