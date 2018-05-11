@@ -1,4 +1,4 @@
-node('kubernetes') {
+node('master') {
 checkout scm
 stage('build') {
     withMaven(maven: 'Default Maven') {
